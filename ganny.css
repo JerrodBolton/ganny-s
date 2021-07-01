@@ -1,0 +1,38 @@
+
+header{
+  text-align: center;
+  padding:20px;
+  background-color:black;
+  color:red;
+}
+nav > a {
+  text-decoration: none;
+  
+  padding-left: 20px;
+  padding-right:20px;
+  
+  color:rgba(233, 14, 14, 0.822);
+}
+
+.our-story{
+  text-align: left;
+  padding:  0.3px;
+  background-color: white;
+  
+}
+.story{
+  text-align: center;
+}
+
+.contact{
+  text-align: center;
+  pudding: 20px;
+  color: rgb(253, 10, 10);
+}
+
+.food-img{
+  text-align: center; 
+  background-color: black;
+  pudding: 20px; 
+
+}
