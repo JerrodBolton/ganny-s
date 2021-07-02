@@ -1,5 +1,5 @@
 
-alert (" Welcome to Granny's  Kitchen ")
+alert (" Welcome to Granny's Kitchen ")
 
 
 
