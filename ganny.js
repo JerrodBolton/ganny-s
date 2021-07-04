@@ -29,7 +29,9 @@ need so good soul food come get you some to eat."
     //then
 
     alert(" Your to fat to be here go away"); //then
-  
+     window.stop():
+
+   
   }
   if( weight <= 170){
     //then
