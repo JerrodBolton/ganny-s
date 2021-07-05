@@ -14,10 +14,11 @@ nav > a {
   color:rgba(233, 14, 14, 0.822);
 }
 
+
 .our-story{
   text-align: center;
   padding:  0.3px;
-  background-color: white;
+  background-color: rgb(243, 13, 13);
   
 }
 .Story{
@@ -26,7 +27,7 @@ nav > a {
 
 .contact{
   text-align: center;
-  pudding: 20px;
+  padding: 20px;
   color: rgb(253, 10, 10);
 }
 
@@ -34,10 +35,6 @@ nav > a {
   text-align: center; 
   background-color: black;
   pudding: 20px; 
-
-}
-.favoritefood{
-  color:red 
 
 
 }
