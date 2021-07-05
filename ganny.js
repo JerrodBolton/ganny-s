@@ -1,5 +1,6 @@
  alert("Welcome to Granny's Kitchen");
 
+
 function food(){
   let your = prompt("what is your favorite food ");
    document.write();
@@ -12,9 +13,9 @@ function food(){
 let Soulfood;
 while (Soulfood != "yes"){
   Soulfood = prompt("Do you like soul food?, yes or no?");
+
 }
-
-
+ 
 
 // What are dome ideas that you want to do with your javascript.
 /* The the idea that I haveI will to make a weight checker. This will check the weight of people that come to the website. 
@@ -36,3 +37,12 @@ function checkweight(){
 
 
 checkweight();
+
+
+  var goodsoulfood = prompt ("How much many corns with butter can you eat?")
+
+
+  for(let i = 0; i < goodsoulfood; i++){
+    Document.write("<img src ='https://ifoodreal.com/wp-content/uploads/2021/04/instant-pot-corn-on-the-cob-recipe-3.jpg'>");
+      }
+    
