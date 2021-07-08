@@ -35,14 +35,19 @@ function checkweight(){
   }
 }
 
-
+ 
 checkweight();
 
 
-  var goodsoulfood = prompt ("How much many corns with butter can you eat?")
 
 
-  for(let i = 0; i < goodsoulfood; i++){
-    Document.write("<img src ='https://ifoodreal.com/wp-content/uploads/2021/04/instant-pot-corn-on-the-cob-recipe-3.jpg'>");
-      }
-    
+var scale = prompt(" How many piece of corn with butter can you eat, 1-10?");
+for(let i = 1; i < 10; i++){
+document.write("<img src='https://media.healthyfood.com/wp-content/uploads/2016/09/Corn-on-the-cob-with-garlic-and-chive-butter-iStock-171575379-2000x1290.jpg'>");
+
+
+}
+ 
+
+
+
