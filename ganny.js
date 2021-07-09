@@ -42,7 +42,7 @@ checkweight();
 
 
 var scale = prompt(" How many piece of corn with butter can you eat, 1-10?");
-for(let i = 1; i < 10; i++){
+for(let i = 1; i < scale; i++){
 document.write("<img src='https://media.healthyfood.com/wp-content/uploads/2016/09/Corn-on-the-cob-with-garlic-and-chive-butter-iStock-171575379-2000x1290.jpg'>");
 
 
